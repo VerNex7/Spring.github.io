@@ -221,7 +221,7 @@ a {
 
 @media (max-width: 1000px) {
   .Header-Navbar {
-    flex-direction: column 2; 
+    flex-direction: column; 
     line-height: 25px;
   }
   .Header-Navbar a {
